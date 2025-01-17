@@ -1,1 +1,1 @@
-# forecast_kimsasia새로운 내용
+# forecast_kimsasia
